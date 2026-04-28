@@ -150,6 +150,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Lemmy](https://lemmy.co/?ref=mahseema-awesome-ai-tools) - Autonomous AI Assistant for Work.
 - [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=mahseema-awesome-ai-tools) - Forget about frustrating formulas in Google Sheets.
 - [CreateEasily](https://createeasily.com/?ref=mahseema-awesome-ai-tools) - Free speech-to-text tool for content creators that accurately transcribes audio & video files up to 2GB.
+- [TranscribeText](https://transcribetext.com) - AI-powered transcription supporting 41+ languages with speaker diarization, subtitle translation, and direct YouTube URL input. Extremely fast — a 2-hour audio file is processed in under 2 minutes.
 - [Cosmos](https://meetcosmos.com/) - Use AI locally and offline to search your media files by their content, find similar images or video scenes using reference images, and transcribe video.
 - [aiPDF](https://aipdf.ai) - The most advanced AI document assistant
 - [Summary With AI](https://www.summarywithai.com/) - Summarize any long PDF with AI. Comprehensive summaries using information from all pages of a document.
